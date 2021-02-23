@@ -1,0 +1,13 @@
+Graph - can be a cycle
+
+General tree
+
+Binary tree
+	Binary search tree:
+	Left tree has keys of lesser value than parent node
+	Right tree has keys of greater value than parent node
+	Therefore, Binary search trees are faster in insertion, deletion, searching
+
+ BFS vs DFS:
+FIFO | LIFO
+queue| stack
