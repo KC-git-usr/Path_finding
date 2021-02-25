@@ -11,3 +11,10 @@ Binary tree
  BFS vs DFS:
 FIFO | LIFO
 queue| stack
+
+Greedy algo:
+Pick best local option, in hopes of finding the best global option
+
+Dijstra' algo (Shortest Path First, SPF):
+Implements priority queue
+	
